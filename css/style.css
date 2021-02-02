@@ -410,26 +410,8 @@ body{
     font-size: 30px;
     padding-top: 15px;
 }
-.img-card-3{
-    width: 130px;
-}
-.img-card-2{
-    width: 96px;
-}
-.img-card-1{
-    width: 115px;
-}
-.img-card-4{
-    width: 80px;
-}
-.img-card-5{
-    width: 88px;
-}
-.img-card-6{
-    width:120px;
-}
-.img-card-7{
-    width:136px;
+.img-card{
+    height: 130px;
 }
 /* repairs */
 .repairs{
